@@ -18,7 +18,7 @@
 
 
     background00.addEventListener('click',() =>{
-        wrapper.style.backgroundImage = "url(./img/kabegami10.png)";
+        wrapper.style.backgroundImage = "url(./img/kabegami11.png)";
         flame.src="./img/curtain04.png";
        
     });
